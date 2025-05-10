@@ -1,0 +1,1 @@
+﻿2024年4月15日关于该仿真文件的说明：1、该轮腿仿真是在b站轮腿机器人仿真开源上进行修改，链接：https://www.bilibili.com/read/cv26677904/?spm_id_from=333.999.0.0&jump_opus=12、该仿真文件的环境是matlab2020b
